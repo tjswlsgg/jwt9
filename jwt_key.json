@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "pentesterlab",
+      "n": "",
+      "e": "",
+      "alg": "RS256"
+    }
+  ]
+}
