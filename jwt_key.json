@@ -4,8 +4,8 @@
       "kty": "RSA",
       "use": "sig",
       "kid": "pentesterlab",
-      "n": "",
-      "e": "",
+      "n": "AJ_WHnF4R09CIQYIyYu1ahvSG23jEtsKNZqJvNRTjcLOScVVclRyKg-0ILlBPiVX2pe-CC80pzjW45hm2SAUbnS81vTzZpuh1pEwcpulmukCumHAuErCOZ9f5BGKknbHK2Dx5J-BynCNDCdvjUnWUiWAB_YDH_q5nTapZx1QD3DG-oc8fRnrUNQrv28Xl5-5LkcK4p8UzB5hCsqJXFqPCXvqKR2r51yRncMsucP5l8fD67Bj0pTEoEBhisAdmnemr0dku_lSjcS9FEYQfvMSbEf-LcLOcY_iUBE6Qe_Qg5fPJjlhIPECz8i6BbBhdI3rWmN9srJde801qWA5_2JTPkE",
+      "e": "AQAB",
       "alg": "RS256"
     }
   ]
